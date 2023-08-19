@@ -18,4 +18,4 @@ So lets start by downloading & unzipping the file to our local machine
 
 First, we are going to review the website. Hmm.. and we see that there is an option to upload files.. interesting 🤔
 
-![img0](./images/1.png)
+![img1](./images/1.png)
