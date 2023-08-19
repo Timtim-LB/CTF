@@ -6,7 +6,7 @@
 
 Yoo ;)
 
-Let's review the challenge
+Let's review the challenge 💃
 
 So lets start by downloading & unzipping the file to our local machine
 
